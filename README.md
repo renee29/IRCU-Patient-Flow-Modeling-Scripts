@@ -83,7 +83,7 @@ If you use this code or data in your research, please cite the specific version 
 **BibTeX Entry Example:**
 
 ```bibtex
-@software{NavasOrtega_YYYY_IRCUDynamics,
+@software{NavasOrtega_2025_IRCUDynamics,
   author       = {Navas-Ortega, Ana Carmen and Sánchez-Martínez, José Antonio and García-Flores, Paula and Morales-García, Concepción and Fabregas, Rene},
   title        = {{IRCU Patient Dynamics and Outcomes in the COVID-19 Pandemic.}},
   year         = {{2025}},
