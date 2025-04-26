@@ -77,7 +77,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you use this code or data in your research, please cite the specific version archived on Zenodo:
 
-{{Navas-Ortega, A. C., Sánchez-Martínez, J. A., García-Flores, P., Morales-García, C., & Fabregas, R. (2025). IRCU Patient Dynamics and Outcomes in the COVID-19 Pandemic. (Version v1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.15286823}}
+Navas-Ortega, A. C., Sánchez-Martínez, J. A., García-Flores, P., Morales-García, C., & Fabregas, R. (2025). IRCU Patient Dynamics and Outcomes in the COVID-19 Pandemic. (Version v1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.15286823
 
 
 **BibTeX Entry Example:**
