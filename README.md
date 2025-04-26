@@ -1,6 +1,6 @@
 # IRCU Patient Flow Modeling Scripts
 
-[![DOI](https://zenodo.org/badge/DOI/{{TU_DOI_ZENODO_FINAL_AQUI}}.svg)](https://doi.org/{{TU_DOI_ZENODO_FINAL_AQUI}})
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15286823.svg)](https://doi.org/10.5281/zenodo.15286823)
 
 Code implementing two modeling approaches for IRCU analysis presented in 'IRCU Patient Dynamics and Outcomes in the COVID-19 Pandemic.':
 
@@ -77,9 +77,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you use this code or data in your research, please cite the specific version archived on Zenodo:
 
-{{CITA_ZENODO_COMPLETA_AQUI}}
+{{Navas-Ortega, A. C., Sánchez-Martínez, J. A., García-Flores, P., Morales-García, C., & Fabregas, R. (2025). IRCU Patient Dynamics and Outcomes in the COVID-19 Pandemic. (Version v1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.15286823}}
 
-*(Example Format: Navas-Ortega, A. C., Sánchez-Martínez, J. A., García-Flores, P., Morales-García, C., & Fabregas, R. (YYYY). IRCU Patient Dynamics and Outcomes in the COVID-19 Pandemic. (Version ZZZZ) [Software]. Zenodo. https://doi.org/DOI)*
 
 **BibTeX Entry Example:**
 
@@ -87,9 +86,9 @@ If you use this code or data in your research, please cite the specific version 
 @software{NavasOrtega_YYYY_IRCUDynamics,
   author       = {Navas-Ortega, Ana Carmen and Sánchez-Martínez, José Antonio and García-Flores, Paula and Morales-García, Concepción and Fabregas, Rene},
   title        = {{IRCU Patient Dynamics and Outcomes in the COVID-19 Pandemic.}},
-  year         = {{YYYY}},
+  year         = {{2025}},
   publisher    = {Zenodo},
-  version      = {{ZZZZ}},
-  doi          = {{{TU_DOI_ZENODO_FINAL_AQUI}}},
-  url          = {https://doi.org/{{TU_DOI_ZENODO_FINAL_AQUI}}}
+  version      = {{v1.0.0}},
+  doi          = {{{10.5281/zenodo.15286823}}},
+  url          = {https://doi.org/{{T10.5281/zenodo.15286823}}}
 }
